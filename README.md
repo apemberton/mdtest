@@ -7,6 +7,6 @@
 <img width="20" height="20" src="./Testkube_symbol_white (1).svg">
 
 
-[![Testkube]("./Testkube_symbol_white (1).svg")](https://testkube.io/get-started/?utm=github)
+[!<img width="20" height="20" src="./Testkube_symbol_white (1).svg">(https://testkube.io/get-started/?utm=github)
 
-<button>Test button [![Testkube]("./Testkube_symbol_white (1).svg")](https://testkube.io/get-started/?utm=github)</button>
+<button>Test button <img width="20" height="20" src="./Testkube_symbol_white (1).svg">(https://testkube.io/get-started/?utm=github)</button>
