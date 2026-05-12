@@ -1,6 +1,17 @@
 
 
+https://img.shields.io/badge/Testkube%20OSS%20Agent-Get%20Started-lightgrey?style=for-the-badge
 
+
+
+
+https://testkube.io/get-started
+
+https://github.com/kubeshop/testkube/blob/olelensmar/fix/readme-update/README.md#open-source-agent---this-repo
+
+
+
+[!(https://img.shields.io/badge/Testkube%20OSS%20Agent-Get%20Started-lightgrey?style=for-the-badge)]
 
 
 ![Alt text](./Testkube_symbol_white (1).svg)
