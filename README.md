@@ -1,4 +1,4 @@
-<picture width="200px">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="Testkube_logofor-dark-bgnd.png">
   <source media="(prefers-color-scheme: light)" srcset="Testkube_logo-for-light-bgnd.png">
   <img alt="Fallback image description" src="default-image.png">
