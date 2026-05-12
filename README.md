@@ -11,7 +11,7 @@ https://github.com/kubeshop/testkube/blob/olelensmar/fix/readme-update/README.md
 
 
 
-[!(https://img.shields.io/badge/Testkube%20OSS%20Agent-Get%20Started-lightgrey?style=for-the-badge)]
+<img src="https://img.shields.io/badge/Testkube%20OSS%20Agent-Get%20Started-lightgrey?style=for-the-badge" alt="Testkube OSS Agent - Get Started">
 
 
 ![Alt text](./Testkube_symbol_white (1).svg)
