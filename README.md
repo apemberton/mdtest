@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
+  <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+  <img alt="Fallback image description" src="default-image.png">
+</picture>
+
+
 <a href="#open-source-agent---this-repo">
 <img src="https://img.shields.io/badge/Testkube%20OSS%20Agent-Get%20Started-lightgrey?style=for-the-badge" alt="Testkube OSS Agent - Get Started" /></a>
 
